@@ -167,10 +167,6 @@ CBN每日影院HD,http://home.lpfcdn.com:4000/udp/235.254.198.192:7980
 CBN幸福剧场HD,http://home.lpfcdn.com:4000/udp/235.254.198.193:7980
 CBN风尚生活HD,http://home.lpfcdn.com:4000/udp/235.254.198.194:7980
 CBN幸福娱乐HD,http://home.lpfcdn.com:4000/udp/235.254.198.195:7980
-CHC高清电影HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC动作电影HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC家庭影院HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-
 
 CBN每日影院HD,http://v.stncp.top/91kds/kds1://gzyx@@id=cbnmryy.m3u8$贵州有线
 CBN幸福剧场HD,http://v.stncp.top/91kds/kds1://gzyx@@id=cbnxfjc.m3u8$贵州有线
@@ -180,7 +176,7 @@ CBN风尚生活HD,http://v.stncp.top/91kds/kds1://gzyx@@id=cbnfssh.m3u8$贵州�
 贵州彩云导视HD,http://v.stncp.top/91kds/kds1://gzyx@@id=gzdcyds.m3u8$贵州有线
 贵州精品剧场HD,http://v.stncp.top/91kds/kds1://gzyx@@id=gzjpdjc.m3u8$贵州有线
 
-四川峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8$四川官网:tvmao@SCTV-SCTV8
+四川峨眉电影HD,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8$四川官网
 四川峨眉电影HD,http://39.134.198.5:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/index.m3u8?IAS$四川移动
 云南影视频道HD,http://39.130.215.222:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8$云南楚雄移动
 
@@ -190,8 +186,6 @@ CBN风尚生活HD,http://v.stncp.top/91kds/kds1://gzyx@@id=cbnfssh.m3u8$贵州�
 北京淘娱乐HD,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8$北京移动
 北京淘电影HD,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8$北京移动
 北京萌宠TVHD,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8$北京移动
-北京啥电影HD,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226302/1.m3u8$北京移动
-
 
 
 
@@ -207,18 +201,6 @@ DOX映画HD,http://v.stncp.top/91kds/kds1://gzyx@@id=doxyh.m3u8$贵州有线
 
 福建导视HD,http://v.stncp.top/parse/live/fjkp.php?id=1176$东南宽频
 
-陕西精彩综艺HD,http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8$陕西宝鸡移动
-陕西精彩体育HD,http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8$陕西宝鸡移动
-陕西精彩电影HD,http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8$陕西宝鸡移动
-陕西精彩电视剧HD,http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8$陕西宝鸡移动
-陕西精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8$陕西广电
-陕西精彩电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$陕西广电
-陕西精彩电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8$陕西广电
-陕西圆点生活,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8$陕西广电
-陕西精彩体育,http://211.137.115.120/gitv_live/GITV-5/GITV-5.m3u8$陕西西安移动
-陕西精彩电影,http://211.137.115.120/gitv_live/GITV-6/GITV-6.m3u8$陕西西安移动
-陕西精彩电视剧,http://211.137.115.120/gitv_live/GITV-8/GITV-8.m3u8$陕西西安移动
-陕西精彩综艺,http://211.137.115.120/gitv_live/GITV-3/GITV-3.m3u8$陕西西安移动
 
 
 影视01HD,http://39.134.182.236/PLTV/88888888/224/3221226245/index.m3u8$浙江湖州移动
@@ -236,23 +218,23 @@ DOX映画HD,http://v.stncp.top/91kds/kds1://gzyx@@id=doxyh.m3u8$贵州有线
 影视13HD,http://39.135.53.199//ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8$福建福州移动
 影视14HD,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-求索动物,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
-求索生活,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
-求索科学,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-求索纪录,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-Y+频道,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/01.m3u8?fmt=ts2hls
-Y+频道,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230226/index.m3u8
+求索动物,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls$浙江杭州移动
+求索生活,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls$浙江杭州移动
+求索科学,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls$浙江杭州移动
+求索纪录,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls$浙江杭州移动
+Y+频道,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/01.m3u8?fmt=ts2hls$浙江杭州移动
+Y+频道,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230226/index.m3u8$浙江杭州移动
 
-Hot亚洲影院 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
-Hot少儿动漫 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
-Hot探索纪录 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls
-Hot欧美影院 720,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
-Hot漫游世界 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
-Hot炫动3D 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
-Hot电子竞技 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
-Hot精品剧场 720,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
-Hot风尚音乐 720,http://39.134.176.154/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
-Hot高清娱乐 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
+Hot亚洲影院,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls$浙江杭州移动
+Hot少儿动漫,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls$浙江杭州移动
+Hot探索纪录,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls$浙江杭州移动
+Hot欧美影院,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls$浙江杭州移动
+Hot漫游世界,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls$浙江杭州移动
+Hot炫动3D,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls$浙江杭州移动
+Hot电子竞技,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls$浙江杭州移动
+Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls$浙江杭州移动
+Hot风尚音乐,http://39.134.176.154/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls$浙江杭州移动
+Hot高清娱乐,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls$浙江杭州移动
 
 
 
@@ -316,34 +298,40 @@ SITV | 都市剧场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888
 四川 | 公共乡村,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-9/index.m3u8?IAS$成都移动
 四川 | 科教频道,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/SD-1500k-576P-sctv8/index.m3u8?IAS$成都移动
 四川 | 峨眉电影,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/scem/index.m3u8?IAS$成都移动
-
 四川 | 成都综合,http://live.rxip.sc96655.com/live/CDTV-1_4000.m3u8$四川广电#http://v.stncp.top/cdtv/1.m3u8$官网
 四川 | 成都经济,http://live.rxip.sc96655.com/live/CDTV-2_4000.m3u8$四川广电#http://v.stncp.top/cdtv/2.m3u8$官网
 四川 | 成都都市,http://live.rxip.sc96655.com/live/CDTV-3_4000.m3u8$四川广电#,http://v.stncp.top/cdtv/3.m3u8$官网
 四川 | 成都影视,http://live.rxip.sc96655.com/live/CDTV-4_4000.m3u8$四川广电#http://v.stncp.top/cdtv/4.m3u8$官网
 四川 | 成都公共,http://live.rxip.sc96655.com/live/CDTV-5_4000.m3u8$四川广电#http://v.stncp.top/cdtv/5.m3u8$官网
 四川 | 成都少儿,http://v.stncp.top/cdtv/6.m3u8$官网
-
-
-
-
 四川 | 广元综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 四川 | 广元公共,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
 四川 | 广元影视,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel6/playlist.m3u8
-
 四川 | 广元利州,http://file.lzgbdst.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 四川 | 广元利州,http://tv.drs.lzgbdst.com:8100/channellive/lztv1.flv
 四川 | 广元昭化,http://tv.zhgbtv.com:3100/hls/qxlrwcbh/index.m3u8#http://60.255.230.66:3100/hls/qxlrwcbh/index.m3u8
 四川 | 广元昭化,http://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$大话利州
 四川 | 广元朝天,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel8/playlist.m3u8$大话利州
-
 四川 | 广元旺苍,http://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel9/playlist.m3u8$大话利州
 四川 | 广元剑阁,http://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playlist.m3u8$大话利州
-
 四川 | 广元青川,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel11/playlist.m3u8$大话利州
 四川 | 苍溪新闻,http://livecx.cxxrmt.com/csdst/zb01.m3u8?auth_key=1593500796-0-0-922f754be4863455a1617f58e3a915b9
 四川 | 苍溪综合,http://livecx.cxxrmt.com/csdst/zb02.m3u8?auth_key=1593500776-0-0-f13b077a8b809c36e2a230d058c3359e
 四川 | 广元剑阁,http://60.255.231.122:1936/hls/live1.m3u8
+
+陕西 | 精彩综艺,http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8$陕西宝鸡移动
+陕西 | 精彩体育,http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8$陕西宝鸡移动
+陕西 | 精彩电影,http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8$陕西宝鸡移动
+陕西 | 精彩电视剧,http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8$陕西宝鸡移动
+陕西 | 精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8$陕西广电
+陕西 | 精彩电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8$陕西广电
+陕西 | 精彩电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8$陕西广电
+陕西 | 圆点生活,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8$陕西广电
+陕西 | 精彩体育,http://211.137.115.120/gitv_live/GITV-5/GITV-5.m3u8$陕西西安移动
+陕西 | 精彩电影,http://211.137.115.120/gitv_live/GITV-6/GITV-6.m3u8$陕西西安移动
+陕西 | 精彩电视剧,http://211.137.115.120/gitv_live/GITV-8/GITV-8.m3u8$陕西西安移动
+陕西 | 精彩综艺,http://211.137.115.120/gitv_live/GITV-3/GITV-3.m3u8$陕西西安移动
+
 
 云南 | 卫视频道,http://39.130.215.222:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8$云南楚雄移动
 云南 | 都市频道,http://39.130.215.222:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8$云南楚雄移动
@@ -378,8 +366,8 @@ SITV | 都市剧场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888
 湖南 | 电视频道,http://play.tzjo.com/diao/atv/kds.php?id=hndsj&mod=hntv
 湖南 | 国际频道,http://play.tzjo.com/diao/atv/kds.php?id=hngj&mod=hntv
 湖南 | 快乐垂钓,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8$北京移动
-湖南 | 茶 频 道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8$北京移动
-湖南 | 茶 频 道,http://39.135.250.74/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil$湖北武汉移动
+湖南 | 茶  频  道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8$北京移动
+湖南 | 茶  频  道,http://39.135.250.74/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil$湖北武汉移动
 湖南 | 金鹰纪实,http://39.130.215.222:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8$云南楚雄移动
 湖南 | 金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8$福建移动
 湖南 | 金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8$福建移动
