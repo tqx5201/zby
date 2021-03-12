@@ -257,200 +257,201 @@ Hot高清娱乐 720,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8
 
 
 地方频道,#genre#
-北京|新闻频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
-北京|财经频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
-北京|文艺频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
-北京|影视频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
-北京|科教频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
-北京|生活频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
-北京|青年频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
-北京|文艺频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8 
-北京|新闻频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8 
-北京|影视频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8 
-北京|科技频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8 
-北京|财经频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226516/1.m3u8 
-北京|财经频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8 
-北京|青年频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8 
-北京|生活频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8 
-北京|冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8 
-北京|国际频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8 
-北京|卡酷少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8 
+北京 | 新闻频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8
+北京 | 财经频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8
+北京 | 文艺频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8
+北京 | 影视频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8
+北京 | 科教频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8
+北京 | 生活频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8
+北京 | 青年频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8
+北京 | 文艺频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8 
+北京 | 新闻频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/1.m3u8 
+北京 | 影视频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/1.m3u8 
+北京 | 科技频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226559/1.m3u8 
+北京 | 财经频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226516/1.m3u8 
+北京 | 财经频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226560/1.m3u8 
+北京 | 青年频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/1.m3u8 
+北京 | 生活频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226561/1.m3u8 
+北京 | 冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8 
+北京 | 国际频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226510/1.m3u8 
+北京 | 卡酷少儿,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8 
 
-上海|外语频道,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/index.m3u8$湖北移动
-上海|哈哈炫动,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/index.m3u8$湖北移动
-上海|新闻综合,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/index.m3u8$湖北移动
-上海|第一财经,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/index.m3u8$湖北移动
-上海|纪实人文,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/index.m3u8$湖北移动
-上海|都市频道,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8$湖北移动
-上海|纪实人文,http://39.130.215.222:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8$云南楚雄移动
-SITV|全  纪  实,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/index.m3u8$湖北移动
-SITV|动漫秀场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/index.m3u8$湖北移动
-SITV|动漫秀场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226145/index.m3u8$湖北移动
-SITV|极速汽车,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/index.m3u8$湖北移动
-SITV|欢笑剧场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/index.m3u8$湖北移动
-SITV|游戏风云,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226146/index.m3u8$湖北移动
-SITV|生活时尚,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/index.m3u8$湖北移动
-SITV|都市剧场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226143/index.m3u8$湖北移动
+上海 | 外语频道,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/index.m3u8$湖北移动
+上海 | 哈哈炫动,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/index.m3u8$湖北移动
+上海 | 新闻综合,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/index.m3u8$湖北移动
+上海 | 第一财经,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/index.m3u8$湖北移动
+上海 | 纪实人文,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/index.m3u8$湖北移动
+上海 | 都市频道,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8$湖北移动
+上海 | 纪实人文,http://39.130.215.222:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8$云南楚雄移动
+SITV | 全  纪  实,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/index.m3u8$湖北移动
+SITV | 动漫秀场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/index.m3u8$湖北移动
+SITV | 动漫秀场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226145/index.m3u8$湖北移动
+SITV | 极速汽车,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/index.m3u8$湖北移动
+SITV | 欢笑剧场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/index.m3u8$湖北移动
+SITV | 游戏风云,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226146/index.m3u8$湖北移动
+SITV | 生活时尚,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/index.m3u8$湖北移动
+SITV | 都市剧场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226143/index.m3u8$湖北移动
 
-四川|文化旅游,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8$官网
-四川|经济频道,http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8$官网
-四川|新闻频道,http://scgctvshow.sctv.com/sdlive/sctv4/1.m3u8$官网
-四川|影视文化,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8$官网
-四川|妇女儿童,http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8$官网
-四川|公共乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8$官网
-四川|峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8$官网
+四川 | 文化旅游,http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8$官网
+四川 | 经济频道,http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8$官网
+四川 | 新闻频道,http://scgctvshow.sctv.com/sdlive/sctv4/1.m3u8$官网
+四川 | 影视文化,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8$官网
+四川 | 妇女儿童,http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8$官网
+四川 | 公共乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8$官网
+四川 | 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8$官网
 
-四川|文化旅游,http://live.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8$四川广电
-四川|经济频道,http://live.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8$四川广电
-四川|新闻频道,http://live.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8$四川广电
-四川|妇女儿童,http://live.rxip.sc96655.com/live/SCTV-7-_4000.m3u8$四川广电
-四川|公共乡村,http://live.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8$四川广电
-四川|科教频道,http://live.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8$四川广电
-四川|峨眉电影,http://live.rxip.sc96655.com/live/emdygqH265_4000.m3u8$四川广电
+四川 | 文化旅游,http://live.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8$四川广电
+四川 | 经济频道,http://live.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8$四川广电
+四川 | 新闻频道,http://live.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8$四川广电
+四川 | 妇女儿童,http://live.rxip.sc96655.com/live/SCTV-7-_4000.m3u8$四川广电
+四川 | 公共乡村,http://live.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8$四川广电
+四川 | 科教频道,http://live.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8$四川广电
+四川 | 峨眉电影,http://live.rxip.sc96655.com/live/emdygqH265_4000.m3u8$四川广电
 
-四川|文化旅游,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-2/index.m3u8?IAS$成都移动
-四川|经济频道,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-3/index.m3u8?IAS$成都移动
-四川|新闻频道,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-4/index.m3u8?IAS$成都移动
-四川|影视文化,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/hdscyswy/index.m3u8?IAS$成都移动
-四川|妇女儿童,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-7/index.m3u8?IAS$成都移动
-四川|公共乡村,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-9/index.m3u8?IAS$成都移动
-四川|科教频道,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/SD-1500k-576P-sctv8/index.m3u8?IAS$成都移动
-四川|峨眉电影,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/scem/index.m3u8?IAS$成都移动
+四川 | 文化旅游,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-2/index.m3u8?IAS$成都移动
+四川 | 经济频道,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-3/index.m3u8?IAS$成都移动
+四川 | 新闻频道,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-4/index.m3u8?IAS$成都移动
+四川 | 影视文化,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/hdscyswy/index.m3u8?IAS$成都移动
+四川 | 妇女儿童,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-7/index.m3u8?IAS$成都移动
+四川 | 公共乡村,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/sctv-9/index.m3u8?IAS$成都移动
+四川 | 科教频道,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/SD-1500k-576P-sctv8/index.m3u8?IAS$成都移动
+四川 | 峨眉电影,http://39.134.198.5:6610/yst.live.scmobile.com//ysten-business/live/scem/index.m3u8?IAS$成都移动
 
-四川|成都综合,http://live.rxip.sc96655.com/live/CDTV-1_4000.m3u8$四川广电#http://v.stncp.top/cdtv/1.m3u8$官网
-四川|成都经济,http://live.rxip.sc96655.com/live/CDTV-2_4000.m3u8$四川广电#http://v.stncp.top/cdtv/2.m3u8$官网
-四川|成都都市,http://live.rxip.sc96655.com/live/CDTV-3_4000.m3u8$四川广电#,http://v.stncp.top/cdtv/3.m3u8$官网
-四川|成都影视,http://live.rxip.sc96655.com/live/CDTV-4_4000.m3u8$四川广电#http://v.stncp.top/cdtv/4.m3u8$官网
-四川|成都公共,http://live.rxip.sc96655.com/live/CDTV-5_4000.m3u8$四川广电#http://v.stncp.top/cdtv/5.m3u8$官网
-四川|成都少儿,http://v.stncp.top/cdtv/6.m3u8$官网
-
-
-
-
-四川|广元综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-四川|广元公共,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
-四川|广元影视,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel6/playlist.m3u8
-
-广元利州综合,http://file.lzgbdst.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8#http://tv.drs.lzgbdst.com:8100/channellive/lztv1.flv
-广元昭化综合,http://tv.zhgbtv.com:3100/hls/qxlrwcbh/index.m3u8#http://60.255.230.66:3100/hls/qxlrwcbh/index.m3u8
-广元昭化综合,http://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$大话利州
-广元朝天综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel8/playlist.m3u8$大话利州
-
-广元旺苍综合,http://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel9/playlist.m3u8$大话利州
-广元剑阁综合,http://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playlist.m3u8$大话利州
-
-广元青川综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel11/playlist.m3u8$大话利州
-广元苍溪新闻,http://livecx.cxxrmt.com/csdst/zb01.m3u8?auth_key=1593500796-0-0-922f754be4863455a1617f58e3a915b9
-广元苍溪综合,http://livecx.cxxrmt.com/csdst/zb02.m3u8?auth_key=1593500776-0-0-f13b077a8b809c36e2a230d058c3359e
-广元剑阁综合,http://60.255.231.122:1936/hls/live1.m3u8
-
-云南|卫视频道,http://39.130.215.222:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8$云南楚雄移动
-云南|都市频道,http://39.130.215.222:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8$云南楚雄移动
-云南|娱乐频道,http://39.130.215.222:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8$云南楚雄移动
-云南|生活资讯,http://39.130.215.222:6410/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8$云南楚雄移动
-云南|影视频道,http://39.130.215.222:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8$云南楚雄移动
-云南|公共频道,http://39.130.215.222:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8$云南楚雄移动
-云南|少儿频道,http://39.130.215.222:6410/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8$云南楚雄移动
-
-江苏|教育频道,http://223.110.241.150:6610/gitv/live1/G_JSJY/G_JSJY/$南京移动
-江苏|城市频道,http://223.110.241.150:6610/gitv/live1/G_JSCS/G_JSCS/$南京移动
-江苏|公共频道,http://223.110.241.150:6610/gitv/live1/G_JSGG/G_JSGG/$南京移动
-江苏|影视频道,http://223.110.241.150:6610/gitv/live1/G_JSYS/G_JSYS/$南京移动
-江苏|休闲体育,http://223.110.241.150:6610/gitv/live1/G_JSTY/G_JSTY/$南京移动
-江苏|综艺频道,http://223.110.241.150:6610/gitv/live1/G_JSZY/G_JSZY/$南京移动
-江苏|综艺频道,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jszongyi/350/index.m3u8?ProgramID=&encrypt=1
-
-山东|体育频道,http://livealone302.iqilu.com/iqilu/typd.m3u8
-山东|生活频道,http://livealone302.iqilu.com/iqilu/shpd.m3u8
-山东|农科频道,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
-山东|新闻频道,http://livealone302.iqilu.com/iqilu/ggpd.m3u8
-山东|影视频道,http://livealone302.iqilu.com/iqilu/yspd.m3u8
-山东|综艺频道,http://livealone302.iqilu.com/iqilu/zypd.m3u8
-山东|教育频道,http://39.134.65.162/PLTV/88888888/224/3221225558/index.m3u8
-山东|购物频道,http://livealone302.iqilu.com/iqilu/gwpd.m3u8
-山东|齐鲁频道,https://livealone302.iqilu.com/iqilu/qlpd.m3u8
-
-湖南|经视频道,http://play.tzjo.com/diao/atv/kds.php?id=hnjs&mod=hntv
-湖南|都市频道,http://play.tzjo.com/diao/atv/kds.php?id=hnds&mod=hntv
-湖南|公共频道,http://play.tzjo.com/diao/atv/kds.php?id=hngg&mod=hntv
-湖南|娱乐频道,http://play.tzjo.com/diao/atv/kds.php?id=hnyl&mod=hntv
-湖南|电视频道,http://play.tzjo.com/diao/atv/kds.php?id=hndsj&mod=hntv
-湖南|国际频道,http://play.tzjo.com/diao/atv/kds.php?id=hngj&mod=hntv
-湖南|快乐垂钓,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8$北京移动
-湖南|茶  频  道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8$北京移动
-湖南|茶  频  道,http://39.135.250.74/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil$湖北武汉移动
-湖南|金鹰纪实,http://39.130.215.222:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8$云南楚雄移动
-湖南|金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8$福建移动
-湖南|金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8$福建移动
-湖南|金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8$福建移动
-
-
-河南|卫视频道,http://v.stncp.top/parse/live/hndx.php?id=hnws$大象传媒
-河南|都市频道,http://v.stncp.top/parse/live/hndx.php?id=dspd$大象传媒
-河南|民生频道,http://v.stncp.top/parse/live/hndx.php?id=mspd$大象传媒
-河南|法治频道,http://v.stncp.top/parse/live/hndx.php?id=fzpd$大象传媒
-河南|电视频道,http://v.stncp.top/parse/live/hndx.php?id=dsjpd$大象传媒
-河南|新闻频道,http://v.stncp.top/parse/live/hndx.php?id=xwpd$大象传媒
-河南|欢腾购物,http://v.stncp.top/parse/live/hndx.php?id=htgw$大象传媒
-河南|公共频道,http://v.stncp.top/parse/live/hndx.php?id=ggpd$大象传媒
-河南|乡村频道,http://v.stncp.top/parse/live/hndx.php?id=hnxc$大象传媒
-河南|国际频道,http://v.stncp.top/parse/live/hndx.php?id=hngj$大象传媒
-河南|梨园频道,http://v.stncp.top/parse/live/hndx.php?id=lypd$大象传媒
-河南|文物宝库,http://v.stncp.top/parse/live/hndx.php?id=wwbk$大象传媒
-河南|武术频道,http://v.stncp.top/parse/live/hndx.php?id=wspd$大象传媒
-河南|睛彩中原,http://v.stncp.top/parse/live/hndx.php?id=qczy$大象传媒
-河南|移动戏曲,http://v.stncp.top/parse/live/hndx.php?id=ydxj$大象传媒
-
-江西|新闻频道,http://39.135.138.8:6610/PLTV/88888888/224/3221225615/2/index.m3u8?fmt=ts2hls$江西宜春移动
-江西|少儿频道,http://39.135.138.8:6610/PLTV/88888888/224/3221226194/2/index.m3u8?fmt=ts2hls$江西宜春移动
-江西|经济生活,http://39.135.138.8:6610/PLTV/88888888/224/3221226206/2/index.m3u8?fmt=ts2hls$江西宜春移动
-江西|教育频道,http://39.135.138.8:6610/PLTV/88888888/224/3221226197/2/index.m3u8?fmt=ts2hls$江西宜春移动
-江西|陶瓷频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226983/index.m3u8$福建移动
-
-
-福建|综合频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil$福建厦门市移动
-福建|新闻频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil$福建厦门市移动
-福建|乡村频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil$福建厦门市移动
-福建|体育频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil$福建厦门市移动
-福建|少儿频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil$福建厦门市移动
-福建|旅游频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil$福建厦门市移动
-福建|电视频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil$福建厦门市移动
-福建|经济频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil$福建厦门市移动
-福建|公共频道,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil$福建厦门市移动
-福建|电视频道,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil$福建厦门市移动
-福建|少儿频道,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil$福建厦门市移动
-
-福建|乡村频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226907/index.m3u8$福建移动
-福建|少儿频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8$福建移动
-福建|新闻频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8$福建移动
-福建|旅游频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226911/index.m3u8$福建移动
-福建|经济频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226973/index.m3u8$福建移动
-福建|综合频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8$福建移动
+四川 | 成都综合,http://live.rxip.sc96655.com/live/CDTV-1_4000.m3u8$四川广电#http://v.stncp.top/cdtv/1.m3u8$官网
+四川 | 成都经济,http://live.rxip.sc96655.com/live/CDTV-2_4000.m3u8$四川广电#http://v.stncp.top/cdtv/2.m3u8$官网
+四川 | 成都都市,http://live.rxip.sc96655.com/live/CDTV-3_4000.m3u8$四川广电#,http://v.stncp.top/cdtv/3.m3u8$官网
+四川 | 成都影视,http://live.rxip.sc96655.com/live/CDTV-4_4000.m3u8$四川广电#http://v.stncp.top/cdtv/4.m3u8$官网
+四川 | 成都公共,http://live.rxip.sc96655.com/live/CDTV-5_4000.m3u8$四川广电#http://v.stncp.top/cdtv/5.m3u8$官网
+四川 | 成都少儿,http://v.stncp.top/cdtv/6.m3u8$官网
 
 
 
-甘肃|公共应急,http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8$甘肃兰州移动
-甘肃|少儿频道,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8$甘肃兰州移动
-甘肃|文化影视,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8$甘肃兰州移动
-甘肃|经济频道,http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8$甘肃兰州移动
-甘肃|都市频道,http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8$甘肃兰州移动
-兰州公共频道,http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8$甘肃兰州移动
-兰州新闻综合,http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8$甘肃兰州移动
-兰州生活经济,http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8$甘肃兰州移动
-兰州综艺体育,http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8$甘肃兰州移动
-陇尚生活频道,http://39.134.39.39/PLTV/88888888/224/3221226254/index.m3u8$甘肃兰州移动
 
-新疆|卫视频道,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
-新疆|维语综合,http://livehyw5.chinamcache.com/hyw/zb02.m3u8
-新疆|哈语综合,http://livehyw5.chinamcache.com/hyw/zb03.m3u8
-新疆|综艺频道,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
-新疆|维语影视,http://livehyw5.chinamcache.com/hyw/zb05.m3u8
-新疆|经济生活,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
-新疆|哈语综艺,http://livehyw5.chinamcache.com/hyw/zb08.m3u8
-新疆|维语经济,http://livehyw5.chinamcache.com/hyw/zb09.m3u8
-新疆|体育频道,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
-新疆|信息服务,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
-新疆|少儿频道,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
+四川 | 广元综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+四川 | 广元公共,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
+四川 | 广元影视,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel6/playlist.m3u8
+
+四川 | 广元利州,http://file.lzgbdst.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
+四川 | 广元利州,http://tv.drs.lzgbdst.com:8100/channellive/lztv1.flv
+四川 | 广元昭化,http://tv.zhgbtv.com:3100/hls/qxlrwcbh/index.m3u8#http://60.255.230.66:3100/hls/qxlrwcbh/index.m3u8
+四川 | 广元昭化,http://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$大话利州
+四川 | 广元朝天,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel8/playlist.m3u8$大话利州
+
+四川 | 广元旺苍,http://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel9/playlist.m3u8$大话利州
+四川 | 广元剑阁,http://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playlist.m3u8$大话利州
+
+四川 | 广元青川,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel11/playlist.m3u8$大话利州
+四川 | 苍溪新闻,http://livecx.cxxrmt.com/csdst/zb01.m3u8?auth_key=1593500796-0-0-922f754be4863455a1617f58e3a915b9
+四川 | 苍溪综合,http://livecx.cxxrmt.com/csdst/zb02.m3u8?auth_key=1593500776-0-0-f13b077a8b809c36e2a230d058c3359e
+四川 | 广元剑阁,http://60.255.231.122:1936/hls/live1.m3u8
+
+云南 | 卫视频道,http://39.130.215.222:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8$云南楚雄移动
+云南 | 都市频道,http://39.130.215.222:6410/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8$云南楚雄移动
+云南 | 娱乐频道,http://39.130.215.222:6410/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8$云南楚雄移动
+云南 | 生活资讯,http://39.130.215.222:6410/gitv_live/G_YNTV-4-HD/G_YNTV-4-HD.m3u8$云南楚雄移动
+云南 | 影视频道,http://39.130.215.222:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8$云南楚雄移动
+云南 | 公共频道,http://39.130.215.222:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8$云南楚雄移动
+云南 | 少儿频道,http://39.130.215.222:6410/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8$云南楚雄移动
+
+江苏 | 教育频道,http://223.110.241.150:6610/gitv/live1/G_JSJY/G_JSJY/$南京移动
+江苏 | 城市频道,http://223.110.241.150:6610/gitv/live1/G_JSCS/G_JSCS/$南京移动
+江苏 | 公共频道,http://223.110.241.150:6610/gitv/live1/G_JSGG/G_JSGG/$南京移动
+江苏 | 影视频道,http://223.110.241.150:6610/gitv/live1/G_JSYS/G_JSYS/$南京移动
+江苏 | 休闲体育,http://223.110.241.150:6610/gitv/live1/G_JSTY/G_JSTY/$南京移动
+江苏 | 综艺频道,http://223.110.241.150:6610/gitv/live1/G_JSZY/G_JSZY/$南京移动
+江苏 | 综艺频道,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jszongyi/350/index.m3u8?ProgramID=&encrypt=1
+
+山东 | 体育频道,http://livealone302.iqilu.com/iqilu/typd.m3u8
+山东 | 生活频道,http://livealone302.iqilu.com/iqilu/shpd.m3u8
+山东 | 农科频道,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+山东 | 新闻频道,http://livealone302.iqilu.com/iqilu/ggpd.m3u8
+山东 | 影视频道,http://livealone302.iqilu.com/iqilu/yspd.m3u8
+山东 | 综艺频道,http://livealone302.iqilu.com/iqilu/zypd.m3u8
+山东 | 教育频道,http://39.134.65.162/PLTV/88888888/224/3221225558/index.m3u8
+山东 | 购物频道,http://livealone302.iqilu.com/iqilu/gwpd.m3u8
+山东 | 齐鲁频道,https://livealone302.iqilu.com/iqilu/qlpd.m3u8
+
+湖南 | 经视频道,http://play.tzjo.com/diao/atv/kds.php?id=hnjs&mod=hntv
+湖南 | 都市频道,http://play.tzjo.com/diao/atv/kds.php?id=hnds&mod=hntv
+湖南 | 公共频道,http://play.tzjo.com/diao/atv/kds.php?id=hngg&mod=hntv
+湖南 | 娱乐频道,http://play.tzjo.com/diao/atv/kds.php?id=hnyl&mod=hntv
+湖南 | 电视频道,http://play.tzjo.com/diao/atv/kds.php?id=hndsj&mod=hntv
+湖南 | 国际频道,http://play.tzjo.com/diao/atv/kds.php?id=hngj&mod=hntv
+湖南 | 快乐垂钓,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8$北京移动
+湖南 | 茶 频 道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8$北京移动
+湖南 | 茶 频 道,http://39.135.250.74/PLTV/88888888/224/3221226058/99180001000000060000000000000415.smil$湖北武汉移动
+湖南 | 金鹰纪实,http://39.130.215.222:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8$云南楚雄移动
+湖南 | 金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8$福建移动
+湖南 | 金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8$福建移动
+湖南 | 金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8$福建移动
+
+
+河南 | 卫视频道,http://v.stncp.top/parse/live/hndx.php?id=hnws$大象传媒
+河南 | 都市频道,http://v.stncp.top/parse/live/hndx.php?id=dspd$大象传媒
+河南 | 民生频道,http://v.stncp.top/parse/live/hndx.php?id=mspd$大象传媒
+河南 | 法治频道,http://v.stncp.top/parse/live/hndx.php?id=fzpd$大象传媒
+河南 | 电视频道,http://v.stncp.top/parse/live/hndx.php?id=dsjpd$大象传媒
+河南 | 新闻频道,http://v.stncp.top/parse/live/hndx.php?id=xwpd$大象传媒
+河南 | 欢腾购物,http://v.stncp.top/parse/live/hndx.php?id=htgw$大象传媒
+河南 | 公共频道,http://v.stncp.top/parse/live/hndx.php?id=ggpd$大象传媒
+河南 | 乡村频道,http://v.stncp.top/parse/live/hndx.php?id=hnxc$大象传媒
+河南 | 国际频道,http://v.stncp.top/parse/live/hndx.php?id=hngj$大象传媒
+河南 | 梨园频道,http://v.stncp.top/parse/live/hndx.php?id=lypd$大象传媒
+河南 | 文物宝库,http://v.stncp.top/parse/live/hndx.php?id=wwbk$大象传媒
+河南 | 武术频道,http://v.stncp.top/parse/live/hndx.php?id=wspd$大象传媒
+河南 | 睛彩中原,http://v.stncp.top/parse/live/hndx.php?id=qczy$大象传媒
+河南 | 移动戏曲,http://v.stncp.top/parse/live/hndx.php?id=ydxj$大象传媒
+
+江西 | 新闻频道,http://39.135.138.8:6610/PLTV/88888888/224/3221225615/2/index.m3u8?fmt=ts2hls$江西宜春移动
+江西 | 少儿频道,http://39.135.138.8:6610/PLTV/88888888/224/3221226194/2/index.m3u8?fmt=ts2hls$江西宜春移动
+江西 | 经济生活,http://39.135.138.8:6610/PLTV/88888888/224/3221226206/2/index.m3u8?fmt=ts2hls$江西宜春移动
+江西 | 教育频道,http://39.135.138.8:6610/PLTV/88888888/224/3221226197/2/index.m3u8?fmt=ts2hls$江西宜春移动
+江西 | 陶瓷频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226983/index.m3u8$福建移动
+
+
+福建 | 综合频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil$福建厦门市移动
+福建 | 新闻频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil$福建厦门市移动
+福建 | 乡村频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil$福建厦门市移动
+福建 | 体育频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil$福建厦门市移动
+福建 | 少儿频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil$福建厦门市移动
+福建 | 旅游频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil$福建厦门市移动
+福建 | 电视频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil$福建厦门市移动
+福建 | 经济频道,rtsp://183.252.166.199/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil$福建厦门市移动
+福建 | 公共频道,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil$福建厦门市移动
+福建 | 电视频道,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil$福建厦门市移动
+福建 | 少儿频道,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil$福建厦门市移动
+
+福建 | 乡村频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226907/index.m3u8$福建移动
+福建 | 少儿频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8$福建移动
+福建 | 新闻频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8$福建移动
+福建 | 旅游频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226911/index.m3u8$福建移动
+福建 | 经济频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226973/index.m3u8$福建移动
+福建 | 综合频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8$福建移动
+
+
+
+甘肃 | 公共应急,http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8$甘肃兰州移动
+甘肃 | 少儿频道,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8$甘肃兰州移动
+甘肃 | 文化影视,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8$甘肃兰州移动
+甘肃 | 经济频道,http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8$甘肃兰州移动
+甘肃 | 都市频道,http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8$甘肃兰州移动
+甘肃 | 兰州公共,http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8$甘肃兰州移动
+甘肃 | 兰州新闻,http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8$甘肃兰州移动
+甘肃 | 兰州生活,http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8$甘肃兰州移动
+甘肃 | 兰州综艺,http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8$甘肃兰州移动
+甘肃 | 陇尚生活,http://39.134.39.39/PLTV/88888888/224/3221226254/index.m3u8$甘肃兰州移动
+
+新疆 | 卫视频道,http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+新疆 | 维语综合,http://livehyw5.chinamcache.com/hyw/zb02.m3u8
+新疆 | 哈语综合,http://livehyw5.chinamcache.com/hyw/zb03.m3u8
+新疆 | 综艺频道,http://livehyw5.chinamcache.com/hyw/zb04.m3u8
+新疆 | 维语影视,http://livehyw5.chinamcache.com/hyw/zb05.m3u8
+新疆 | 经济生活,http://livehyw5.chinamcache.com/hyw/zb07.m3u8
+新疆 | 哈语综艺,http://livehyw5.chinamcache.com/hyw/zb08.m3u8
+新疆 | 维语经济,http://livehyw5.chinamcache.com/hyw/zb09.m3u8
+新疆 | 体育频道,http://livehyw5.chinamcache.com/hyw/zb10.m3u8
+新疆 | 信息服务,http://livehyw5.chinamcache.com/hyw/zb11.m3u8
+新疆 | 少儿频道,http://livehyw5.chinamcache.com/hyw/zb12.m3u8
 
 组播测试,#genre#
 
@@ -596,69 +597,55 @@ CHC家庭影视,http://111.167.175.202:4022/udp/225.1.1.213:5002$天津联通
 未知频道245,http://111.167.175.202:4022/udp/225.1.1.245:5002$天津联通
 
 
-大碗巨场,#genre#
-周星驰电影,http://api.luyetv.com:6006/huya/huya.php?id=11342412#http://kuqq.tk/00/huya.php?id=19105261
-林正英电影,http://api.luyetv.com:6006/huya/huya.php?id=11342421#http://kuqq.tk/00/huya.php?id=11342421
-成龙电影,http://api.luyetv.com:6006/huya/huya.php?id=11342386#http://kuqq.tk/00/huya.php?id=11342386
-冯小刚电影,http://api.luyetv.com:6006/huya/huya.php?id=11352906#http://kuqq.tk/00/huya.php?id=11352906
-李连杰电影,http://api.luyetv.com:6006/huya/huya.php?id=11342390#http://kuqq.tk/00/huya.php?id=11342390
-周润发电影,http://api.luyetv.com:6006/huya/huya.php?id=11342387#http://kuqq.tk/00/huya.php?id=11342387
-刘德华电影,http://api.luyetv.com:6006/huya/huya.php?id=11342424#http://kuqq.tk/00/huya.php?id=11342424
-甄子丹电影,http://api.luyetv.com:6006/huya/huya.php?id=11352935#http://kuqq.tk/00/huya.php?id=11352935
-任达华电影,http://api.luyetv.com:6006/huya/huya.php?id=11352883#http://kuqq.tk/00/huya.php?id=11352883
-吴京电影,http://api.luyetv.com:6006/huya/huya.php?id=11602045#http://kuqq.tk/00/huya.php?id=11602045
-洪金宝电影,http://api.luyetv.com:6006/huya/huya.php?id=11342427#http://kuqq.tk/00/huya.php?id=11342427
-徐峥电影,http://api.luyetv.com:6006/huya/huya.php?id=11602043#http://kuqq.tk/00/huya.php?id=11602043
-轮播剧场,#genre#
-陈翔六点半,http://api.luyetv.com:6006/huya/huya.php?id=11274154#http://kuqq.tk/00/huya.php?id=11274154
-武林外传,http://api.luyetv.com:6006/huya/huya.php?id=11352915#http://kuqq.tk/00/huya.php?id=11352915
-汉武大帝,http://api.luyetv.com:6006/huya/huya.php?id=11336726#http://kuqq.tk/00/huya.php?id=11336726
-家有儿女,http://api.luyetv.com:6006/huya/huya.php?id=11352872#http://kuqq.tk/00/huya.php?id=11352872
-鹿鼎记,http://api.luyetv.com:6006/huya/huya.php?id=11352910#http://kuqq.tk/00/huya.php?id=11352910
-新三国,http://api.luyetv.com:6006/huya/huya.php?id=11352944#http://kuqq.tk/00/huya.php?id=11352944
-三国演义,http://api.luyetv.com:6006/huya/huya.php?id=11602081#http://kuqq.tk/00/huya.php?id=11602081
-龙门镖局,http://api.luyetv.com:6006/huya/huya.php?id=11352874#http://kuqq.tk/00/huya.php?id=11352874
-孝庄秘史,http://api.luyetv.com:6006/huya/huya.php?id=11352892#http://kuqq.tk/00/huya.php?id=11352892
-新水浒传,http://api.luyetv.com:6006/huya/huya.php?id=11342384#http://kuqq.tk/00/huya.php?id=11342384
-大唐双龙传之长生诀,http://api.luyetv.com:6006/huya/huya.php?id=11602031#http://kuqq.tk/00/huya.php?id=11602031
-康熙微服私访记,http://api.luyetv.com:6006/huya/huya.php?id=11342418#http://kuqq.tk/00/huya.php?id=11342418
-铁齿铜牙纪晓岚,http://api.luyetv.com:6006/huya/huya.php?id=11342396#http://kuqq.tk/00/huya.php?id=11342396
-三国,http://api.luyetv.com:6006/huya/huya.php?id=11602077#http://kuqq.tk/00/huya.php?id=11602077
-盗墓笔记,http://api.luyetv.com:6006/huya/huya.php?id=11352871#http://kuqq.tk/00/huya.php?id=11352871
-我和僵尸有个约会,http://api.luyetv.com:6006/huya/huya.php?id=10871113#http://kuqq.tk/00/huya.php?id=10871113
-徒行使者,http://api.luyetv.com:6006/huya/huya.php?id=11342397#http://kuqq.tk/00/huya.php?id=11342397
-哈利波特电影,http://api.luyetv.com:6006/huya/huya.php?id=11602046#http://kuqq.tk/00/huya.php?id=11602046
-漫威电影,http://api.luyetv.com:6006/huya/huya.php?id=11602034#http://kuqq.tk/00/huya.php?id=11602034
-金庸电影,http://api.luyetv.com:6006/huya/huya.php?id=11352897#http://kuqq.tk/00/huya.php?id=11352897
-木乃伊系列,http://api.luyetv.com:6006/huya/huya.php?id=11352934#http://kuqq.tk/00/huya.php?id=11352934
-五福星系列,http://api.luyetv.com:6006/huya/huya.php?id=11282233#http://kuqq.tk/00/huya.php?id=11282233
+影视轮播,#genre#
+HY周星驰,http://api.luyetv.com:6006/huya/huya.php?id=11342412
+HY林正英,http://api.luyetv.com:6006/huya/huya.php?id=11342421
+HY成  龙,http://api.luyetv.com:6006/huya/huya.php?id=11342386
+HY冯小刚,http://api.luyetv.com:6006/huya/huya.php?id=11352906
+HY李连杰,http://api.luyetv.com:6006/huya/huya.php?id=11342390
+HY周润发,http://api.luyetv.com:6006/huya/huya.php?id=11342387
+HY刘德华,http://api.luyetv.com:6006/huya/huya.php?id=11342424
+HY甄子丹,http://api.luyetv.com:6006/huya/huya.php?id=11352935
+HY任达华,http://api.luyetv.com:6006/huya/huya.php?id=11352883
+HY吴  京,http://api.luyetv.com:6006/huya/huya.php?id=11602045
+HY洪金宝,http://api.luyetv.com:6006/huya/huya.php?id=11342427
+HY徐  峥,http://api.luyetv.com:6006/huya/huya.php?id=11602043
+HY漫  威,http://api.luyetv.com:6006/huya/huya.php?id=11602034
+HY金  庸,http://api.luyetv.com:6006/huya/huya.php?id=11352897
+HY木乃伊,http://api.luyetv.com:6006/huya/huya.php?id=11352934
+HY五福星,http://api.luyetv.com:6006/huya/huya.php?id=11282233
+
+
+
+
+
 精彩解说,#genre#
-KPL,http://api.luyetv.com:6006/huya/huya.php?id=kpl
-阿斗归来了,http://api.luyetv.com:6006/huya/huya.php?id=13303478#http://kuqq.tk/00/huya.php?id=13303478
-扁豆看电影,http://api.luyetv.com:6006/huya/huya.php?id=16028551#http://kuqq.tk/00/huya.php?id=16028551
-了不起的乌贼君,http://api.luyetv.com:6006/huya/huya.php?id=16604522#http://kuqq.tk/00/huya.php?id=16604522
-鱼丸电影,http://api.luyetv.com:6006/huya/huya.php?id=16615910#http://kuqq.tk/00/huya.php?id=16615910
-大象放映室,http://api.luyetv.com:6006/huya/huya.php?id=21277391#http://kuqq.tk/00/huya.php?id=21277391
-科幻梦工场,http://api.luyetv.com:6006/huya/huya.php?id=15152155#http://kuqq.tk/00/huya.php?id=15152155
-亮哥讲电影,http://api.luyetv.com:6006/huya/huya.php?id=16144175#http://kuqq.tk/00/huya.php?id=16144175
-越哥说电影,http://api.luyetv.com:6006/huya/huya.php?id=15894162#http://kuqq.tk/00/huya.php?id=15894162
-小冉看电影,http://api.luyetv.com:6006/huya/huya.php?id=17341907#http://kuqq.tk/00/huya.php?id=17341907
-嫦娥撩电影,http://api.luyetv.com:6006/huya/huya.php?id=18201106#http://kuqq.tk/00/huya.php?id=18201106
-阿翔说电影,http://api.luyetv.com:6006/huya/huya.php?id=16868935#http://kuqq.tk/00/huya.php?id=16868935
-疯狂解说家,http://api.luyetv.com:6006/huya/huya.php?id=18366196#http://kuqq.tk/00/huya.php?id=18366196
-虎妞说电影,http://api.luyetv.com:6006/huya/huya.php?id=20343144#http://kuqq.tk/00/huya.php?id=20343144
-顾久撩电影,http://api.luyetv.com:6006/huya/huya.php?id=16422212#http://kuqq.tk/00/huya.php?id=16422212
-涵哥评电影,http://api.luyetv.com:6006/huya/huya.php?id=16865726#http://kuqq.tk/00/huya.php?id=16865726
-俗哥看电影,http://api.luyetv.com:6006/huya/huya.php?id=15452736#http://kuqq.tk/00/huya.php?id=15452736
-老皮讲电影,http://api.luyetv.com:6006/huya/huya.php?id=16968572#http://kuqq.tk/00/huya.php?id=16968572
-阿钙扒瞎,http://api.luyetv.com:6006/huya/huya.php?id=15978172#http://kuqq.tk/00/huya.php?id=15978172
-阿良说剧,http://api.luyetv.com:6006/huya/huya.php?id=20488841#http://kuqq.tk/00/huya.php?id=20488841
-默爷侃电影,http://api.luyetv.com:6006/huya/huya.php?id=17204307#http://kuqq.tk/00/huya.php?id=17204307
-冷君说电影,http://api.luyetv.com:6006/huya/huya.php?id=16739452#http://kuqq.tk/00/huya.php?id=16739452
-老炮说电影,http://api.luyetv.com:6006/huya/huya.php?id=15454716#http://kuqq.tk/00/huya.php?id=15454716
-刘老师说电影,http://api.luyetv.com:6006/huya/huya.php?id=20289754#http://kuqq.tk/00/huya.php?id=20289754
-来呀官人,http://api.luyetv.com:6006/huya/huya.php?id=15763558#http://kuqq.tk/00/huya.php?id=15763558
-恐怖地带,http://api.luyetv.com:6006/huya/huya.php?id=16741179#http://kuqq.tk/00/huya.php?id=16741179
+KPL王者荣耀,http://api.luyetv.com:6006/huya/huya.php?id=kpl
+阿斗归来了,http://api.luyetv.com:6006/huya/huya.php?id=13303478
+扁豆看电影,http://api.luyetv.com:6006/huya/huya.php?id=16028551
+了不起的乌贼君,http://api.luyetv.com:6006/huya/huya.php?id=16604522
+鱼丸电影,http://api.luyetv.com:6006/huya/huya.php?id=16615910
+大象放映室,http://api.luyetv.com:6006/huya/huya.php?id=21277391
+科幻梦工场,http://api.luyetv.com:6006/huya/huya.php?id=15152155
+亮哥讲电影,http://api.luyetv.com:6006/huya/huya.php?id=16144175
+越哥说电影,http://api.luyetv.com:6006/huya/huya.php?id=15894162
+小冉看电影,http://api.luyetv.com:6006/huya/huya.php?id=17341907
+嫦娥撩电影,http://api.luyetv.com:6006/huya/huya.php?id=18201106
+阿翔说电影,http://api.luyetv.com:6006/huya/huya.php?id=16868935
+疯狂解说家,http://api.luyetv.com:6006/huya/huya.php?id=18366196
+虎妞说电影,http://api.luyetv.com:6006/huya/huya.php?id=20343144
+顾久撩电影,http://api.luyetv.com:6006/huya/huya.php?id=16422212
+涵哥评电影,http://api.luyetv.com:6006/huya/huya.php?id=16865726
+俗哥看电影,http://api.luyetv.com:6006/huya/huya.php?id=15452736
+老皮讲电影,http://api.luyetv.com:6006/huya/huya.php?id=16968572
+阿钙扒瞎,http://api.luyetv.com:6006/huya/huya.php?id=15978172
+阿良说剧,http://api.luyetv.com:6006/huya/huya.php?id=20488841
+默爷侃电影,http://api.luyetv.com:6006/huya/huya.php?id=17204307
+冷君说电影,http://api.luyetv.com:6006/huya/huya.php?id=16739452
+老炮说电影,http://api.luyetv.com:6006/huya/huya.php?id=15454716
+刘老师说电影,http://api.luyetv.com:6006/huya/huya.php?id=20289754
+来呀官人,http://api.luyetv.com:6006/huya/huya.php?id=15763558
+恐怖地带,http://api.luyetv.com:6006/huya/huya.php?id=16741179
 
 
 p2p147,#genre#
