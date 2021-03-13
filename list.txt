@@ -163,10 +163,10 @@ CHC家庭影院HD,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/
 NTV黑莓电影HD,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/1.m3u8$北京移动
 
 
-CBN每日影院HD,http://home.lpfcdn.com:4000/udp/235.254.198.192:7980
-CBN幸福剧场HD,http://home.lpfcdn.com:4000/udp/235.254.198.193:7980
-CBN风尚生活HD,http://home.lpfcdn.com:4000/udp/235.254.198.194:7980
-CBN幸福娱乐HD,http://home.lpfcdn.com:4000/udp/235.254.198.195:7980
+BesTV喜剧之王,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/6/7f69af54-c623-4782-879d-04560bce8a91/medium/?myTokenPrefixCustomParameter=88&myTokenPrefixendtime=1554639828&myTokenPrefixhash=xKa_49F96NytaceVdBKXhQ-wjIyArZzWeN19P4CJSP0=
+BesTV热播剧场,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/9/f7b8e434-e8df-46b0-bbda-5807610d58c7/medium/?myTokenPrefixCustomParameter=42&myTokenPrefixendtime=1554639828&myTokenPrefixhash=SxV4iLftnMMwXgGa8r9xOJQd9hVmcHo5XvDlmzzH2O4=
+BesTV动画王国,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/10/6f2acaf1-2341-4cd7-a33f-168f83127eb1/medium/?myTokenPrefixCustomParameter=165&myTokenPrefixendtime=1554639828&myTokenPrefixhash=F1VajEzLv7q_mJwjwLLQRB2_rYtzgjmDSeKR2ZPhcM0=
+
 
 CBN每日影院HD,http://v.stncp.top/91kds/kds1://gzyx@@id=cbnmryy.m3u8$贵州有线
 CBN幸福剧场HD,http://v.stncp.top/91kds/kds1://gzyx@@id=cbnxfjc.m3u8$贵州有线
