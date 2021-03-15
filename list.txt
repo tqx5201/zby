@@ -319,6 +319,19 @@ SITV | 都市剧场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888
 四川 | 苍溪综合,http://livecx.cxxrmt.com/csdst/zb02.m3u8?auth_key=1593500776-0-0-f13b077a8b809c36e2a230d058c3359e
 四川 | 广元剑阁,http://60.255.231.122:1936/hls/live1.m3u8
 
+
+浙江 | 卫视频道,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江 | 钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江 | 经济生活,http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江 | 购物频道,http://yd-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江 | 影视娱乐,http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江 | 6频道,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江 | 新闻频道,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江 | 少儿频道,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+浙江 | 留学频道,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
+浙江 | 国际频道,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+
+
 陕西 | 精彩综艺,http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8$陕西宝鸡移动
 陕西 | 精彩体育,http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8$陕西宝鸡移动
 陕西 | 精彩电影,http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8$陕西宝鸡移动
